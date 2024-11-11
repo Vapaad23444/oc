@@ -1,0 +1,111 @@
+{
+    "suit.zap": {
+        "sounds": [
+            "suit/zap"
+        ],
+        "catogory": "player"
+    },
+    "suit.thunder": {
+        "sounds": [
+            "suit/thunder"
+        ],
+        "catogory": "player"
+    },
+    "suit.clap": {
+        "sounds": [
+            "suit/clap"
+        ],
+        "catogory": "player"
+    },
+    "suit.cast": {
+        "sounds": [
+            "suit/cast"
+        ],
+        "catogory": "player"
+    },
+    "suit.boost": {
+        "sounds": [
+            "suit/boost"
+        ],
+        "catogory": "player"
+    },
+    "suit.death_axe": {
+        "sounds": [
+            "suit/death_axe"
+        ],
+        "catogory": "player"
+    },
+    "suit.death_beam": {
+        "sounds": [
+            "suit/death_beam"
+        ],
+        "catogory": "player"
+    },
+    "suit.death_phasing": {
+        "sounds": [
+            "suit/death_phasing"
+        ],
+        "catogory": "player"
+    },
+    "suit.death_tp": {
+        "sounds": [
+            "suit/death_tp"
+        ],
+        "catogory": "player"
+    },
+    "suit.flames": {
+        "sounds": [
+            "suit/flames"
+        ],
+        "catogory": "player"
+    },
+    "suit.buzz": {
+        "sounds": [
+            "suit/buzz"
+        ],
+        "catogory": "player"
+    },
+    "suit.explosion": {
+        "sounds": [
+            "suit/explosion"
+        ],
+        "catogory": "player"
+    },
+    "suit.spinjitzu_start": {
+        "sounds": [
+            "suit/spinjitzu_start"
+        ],
+        "catogory": "player"
+    },
+    "suit.spinjitzu_loop": {
+        "sounds": [
+            "suit/spinjitzu_loop"
+        ],
+        "catogory": "player"
+    },
+    "suit.flute": {
+        "sounds": [
+            "suit/flute"
+        ],
+        "catogory": "player"
+    },
+    "suit.ice_beam": {
+        "sounds": [
+            "suit/ice_beam"
+        ],
+        "catogory": "player"
+    },
+    "suit.ice_blade": {
+        "sounds": [
+            "suit/ice_blade"
+        ],
+        "catogory": "player"
+    },
+    "suit.flames_blade": {
+        "sounds": [
+            "suit/flames_blade"
+        ],
+        "catogory": "player"
+    }
+}
+
